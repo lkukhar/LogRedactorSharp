@@ -11,8 +11,8 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CA204CAB-FD66-45B6-B789-B541F88BC0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA204CAB-FD66-45B6-B789-B541F88BC0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA204CAB-FD66-45B6-B789-B541F88BC0DC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{CA204CAB-FD66-45B6-B789-B541F88BC0DC}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{CA204CAB-FD66-45B6-B789-B541F88BC0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA204CAB-FD66-45B6-B789-B541F88BC0DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection

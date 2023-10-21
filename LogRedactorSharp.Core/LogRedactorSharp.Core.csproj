@@ -4,6 +4,24 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>LogRedactorSharp</PackageId>
+    <Title>Log Redactor Sharp</Title>
+    <Authors>lkukhar</Authors>
+    <Product>LogRedactorSharp</Product>
+    <Description>A C#/.NET attribute-based log redaction implementation</Description>
+    <Copyright>Copyright 2023 lkukhar</Copyright>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/lkukhar/LogRedactorSharp</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>logger;logging;redact;redaction;redactor</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

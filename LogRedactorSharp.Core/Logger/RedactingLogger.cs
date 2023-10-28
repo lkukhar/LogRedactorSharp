@@ -1,5 +1,5 @@
-﻿using Microsoft.Extensions.Logging;
-using LogRedactorSharp.Core.Attributes;
+﻿using LogRedactorSharp.Core.Attributes;
+using Microsoft.Extensions.Logging;
 using System.Reflection;
 using System.Text;
 

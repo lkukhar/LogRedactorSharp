@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LogRedactorSharp.Core\LogRedactorSharp.Core.csproj" />
+  </ItemGroup>
+
 </Project>
